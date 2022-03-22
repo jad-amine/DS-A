@@ -1,0 +1,10 @@
+1) - Try the easiest input; implement it as a base case;
+2) - Visualise and play with examples
+3) - Relate hard cases to simpler cases
+4) - Generalize the pattern (input k)
+5) - Combine recursive pattern with the base case
+
+--RECURSIVE LEAP OF FAITH--
+Assume simpler cases work out.
+
+https://www.youtube.com/watch?v=ngCos392W4w
